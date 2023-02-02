@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "bcrypt": "^3.0.4",
-    "heroku": "^7.35.1",
+    "heroku": "^8.0.0",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
     "mongodb": "^3.4.1",
